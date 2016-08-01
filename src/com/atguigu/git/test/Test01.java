@@ -8,6 +8,7 @@ public class Test01 {
 		System.out.println("！！！！！！！！！");
 		System.out.println("123456789");
 		System.out.println("qwertyuiop");
+		System.out.println("zxcvbnm");
 	}
 
 }
